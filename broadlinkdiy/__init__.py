@@ -39,6 +39,7 @@ SUPPORTED_TYPES = {
         0x791A: ("SP2-compatible", "Honeywell"),
         0x7D0D: ("SP mini 3", "Broadlink (OEM)"),
         0x7549: ("L6", "Broadlink (OEM)"),  #移动L6插座
+        0x7D07: ("TM SP mini 3", "Broadlink (OEM)"),  #SPmini3【天猫精灵定制版 10A】
     },
     sp2s: {
         0x2711: ("SP2", "Broadlink"),
